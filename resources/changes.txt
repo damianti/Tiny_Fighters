@@ -1,0 +1,8 @@
+7-7 at night
+
+const auto EnemyFactor = sf::Vector2f(2.f, 2.f)
+const auto enemySpeed = float(100.f);
+
+
+not sending speed in movingObject 
+
